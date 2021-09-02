@@ -3,4 +3,4 @@
 library(cars)
 cars
 
-plot(cars$speed, cars$dist)
+plot(cars$speed, cars$dist, col = "red")
